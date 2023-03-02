@@ -40,3 +40,4 @@ while as $\phi$ goes to $\infty$, the scheduling strategy becomes completely gre
 Through simulations, we show the optimal $\phi$ depends strongly on the operating Signal-to-Noise (SNR) ratio.
 As the following figure suggests, it is more advised to set $\phi$ to small values when SNR is low,
 and as SNR increases, the optimal $\phi$ grows accordingly.
+![Number of Iteration vs. Phi for Margulis LDPC Code at different SNRs](./Figures/Phi_Iter_Margulis_ADMM_RL.pdf)
